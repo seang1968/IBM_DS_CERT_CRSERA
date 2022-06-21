@@ -1,5 +1,5 @@
-PATH=C:\pyver\394;C:\pyver\394\Scripts;%PATH%
-REM capstone\Scripts\activate
+REM PATH=C:\pyver\394;C:\pyver\394\Scripts;%PATH%
+myenv\Scripts\activate
 
 REM  python -m ensurepip
 REM  python -m ensurepip --upgrade

@@ -1,6 +1,5 @@
 REM PATH=C:\pyver\394;C:\pyver\394\Scripts;%PATH%
-myenv\Scripts\activate
-
+..\env_setter\myenv\Scripts\activate
 REM  python -m ensurepip
 REM  python -m ensurepip --upgrade
 REM python -m pip install --upgrade pip

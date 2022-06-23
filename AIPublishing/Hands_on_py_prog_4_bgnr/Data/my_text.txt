@@ -1,0 +1,3 @@
+hello there
+Welcome to Python from zero to hero
+You will learn Python in this book.
